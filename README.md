@@ -11,14 +11,12 @@ Download from: https://lab.osai.ai/
 ### NCUTT
 Download from: https://huggingface.co/datasets/DuyNguyenTV/NCUTT  
 
+The trained weights are also uploaded to: https://huggingface.co/datasets/DuyNguyenTV/NCUTT  
+
 
 The dataset contains 6 videos:
 - C0024 and C0035 are used for validation
 - The remaining videos are used for training
-
-### Ball ROI
-- 300×300 images of the ball
-- Cropped from OpenTTGame and NCUTT datasets
 
 ---
 
